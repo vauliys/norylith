@@ -1,0 +1,55 @@
+:root {
+    --header-height: ;
+
+    /* BW colours */
+    --colour-white: #ffffff;
+    --colour-black: #1c1a1a;
+
+    /* Colours */
+    --colour-100: ;
+    --colour-200: ;
+    --colour-accent-100: ;
+    --colour-accent-400: ;
+
+    /* Font style */
+    --body-font: ;
+
+    /* Font weight */
+    --font-light: ;
+    --font-regular: ;
+    --font-medium: ;
+    --font-semi-bold: ;
+    --font-bold: ;
+
+    /* Font size */
+    --h1: ;
+    --h2: ;
+    --h3: ;
+    --h4: ;
+    --h5: ;
+    --body: ;
+    --caption: ;
+} /* End of root */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+    height: 100%;
+}
+
+@media screen and (min-width: 1024px) { /* Medium devices */
+    :root {
+
+    }
+}
+
+@media screen and (min-width: 1024px) { /* Large devices */
+    :root {
+
+    }
+}
